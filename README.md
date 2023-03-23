@@ -17,7 +17,7 @@ além de oferecer maior visibilidade aos empreendedores, possibilitando a geraç
 * Emanuel Joshua
 * Artur Maciejewsky
 * Eduardo Medeiros
-* Nome completo do aluno 5
+* Vitor Gabriel Linas
 
 ## Orientador
 
