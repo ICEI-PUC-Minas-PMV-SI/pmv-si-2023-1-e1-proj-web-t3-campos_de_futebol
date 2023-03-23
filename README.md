@@ -1,4 +1,4 @@
-# Título do Projeto
+# Football Maps
 
 `CURSO: Sistemas de Informação`
 
@@ -10,15 +10,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Samuel Lacerda Borges
+* Emanuel Joshua
+* Artur Maciejewsky
+* Eduardo Medeiros
 * Nome completo do aluno 5
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana De Nardin
 
 # Planejamento
 
