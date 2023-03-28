@@ -33,12 +33,10 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Muitas vezes é difícil encontrar campos de futebol disponíveis para jogar, especialmente em áreas urbanas com alta densidade populacional. Foi por isso que escolhemos desenvolver o site Football Maps, plataforma que permite os usuários pesquisem campos de futebol próximos, visualizem fotos e avaliações de outros jogadores, e façam reservas diretamente no aplicativo.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O projeto é baseado em tendências de uso de aplicativos de reserva de atividades esportivas em geral. De acordo com uma pesquisa da plataforma Esportes na Web, 55% dos brasileiros que praticam esportes usam aplicativos para facilitar o acesso a atividades físicas. Portanto, o Football Maps tem o potencial de ser um aplicativo popular e útil para os jogadores de futebol brasileiros, ajudando a resolver um problema comum que muitos enfrentam ao tentar encontrar campos de futebol disponíveis para jogar.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
