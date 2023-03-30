@@ -1,8 +1,8 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Football Maps é uma ferramenta que oferece recursos avançados de busca, localização e reserva de campos de futebol disponíveis para aluguel, que tem como objetivo facilitar a vida dos jogadores de futebol na hora de encontrar um espaço para jogar. 
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Com o uso de tecnologias como geolocalização e integração com o Google Maps, o aplicativo permite que o usuário encontre campos próximos a sua localização, visualize fotos e avaliações de outros jogadores sobre os campos e faça reservas diretamente pelo aplicativo, escolhendo a data, horário e duração desejados.
 
 ## Personas
 
