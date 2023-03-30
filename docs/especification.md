@@ -46,31 +46,30 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| Criar uma interface para a realização do cadastro e login | ALTA |  |
+|RF-002| Criar um botão para que o usuário possa solicitar a alteração de sua senha | Alta | |
+|RF-003| Permitir que os donos cadastrem seus campos| ALTA |  |
+|RF-004| Permitir que os jogadores possam realizar a reserva dos campos | Alta | |
+|RF-005| Criar uma interface para a criação de times| ALTA |  |
+|RF-006| Desenvolver uma página falando dos benefícios de se praticar esportes| Média | |
+|RF-007| Criar um FAQ, frequently asked questions, que contenha as dúvidas mais comuns dos usuários | ALTA |  |
+|RF-008| Desenvolver uma página com tutoriais de como se utilizar o software | Alta | |
+|RF-009| Criar uma página que contenha vídeos ensinando a evoluir no futebol | Baixa |  |
+|RF-010| Criar uma página com os termos de uso do software  | MÉDIA | |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O sistema deve funcionar sem bugs | Alta | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O sistema deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez | Alta | 
+|RNF-004| O sistema deve utilizar um meio de armazenamento de dados seguro |  Alta | 
+|RNF-005| O sistema deve utilizar o mínimo de armazenamento possível, para tornar mais rápida à sua execução | Média | 
+|RNF-006| O sistema deve funcionar em todo tipo de computador |  Média | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
