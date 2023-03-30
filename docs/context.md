@@ -30,9 +30,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Justificativa
 
-Muitas vezes é difícil encontrar campos de futebol disponíveis para jogar, especialmente em áreas urbanas com alta densidade populacional. Foi por isso que escolhemos desenvolver o site Football Maps, plataforma que permite os usuários pesquisem campos de futebol próximos, visualizem fotos e avaliações de outros jogadores, e façam reservas diretamente no aplicativo.
-
-O projeto é baseado em tendências de uso de aplicativos de reserva de atividades esportivas em geral. De acordo com uma pesquisa da plataforma Esportes na Web, 55% dos brasileiros que praticam esportes usam aplicativos para facilitar o acesso a atividades físicas. Portanto, o Football Maps tem o potencial de ser um aplicativo popular e útil para os jogadores de futebol brasileiros, ajudando a resolver um problema comum que muitos enfrentam ao tentar encontrar campos de futebol disponíveis para jogar.
+O futebol é um esporte muito popular em todo o mundo, e o Brasil é um dos países onde ele mais é praticado. De acordo com uma pesquisa da Universidade de São Paulo (USP)[...], cerca de 7% dos brasileiros ou 15 milhões de pessoas jogam futebol regularmente.  Essa demanda motivou o desenvolvimento do site Football Maps, uma plataforma que possibilita aos usuários pesquisar por campos de futebol próximos, visualizar fotos e avaliações de outros jogadores e fazer reservas diretamente pelo aplicativo.
 
 
 ## Público-Alvo
