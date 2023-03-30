@@ -46,16 +46,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Criar uma interface para a realização do cadastro e login | ALTA |  |
+|RF-001| Criar uma interface para a realização do cadastro e login | Alta |  |
 |RF-002| Criar um botão para que o usuário possa solicitar a alteração de sua senha | Alta | |
-|RF-003| Permitir que os donos cadastrem seus campos| ALTA |  |
+|RF-003| Permitir que os donos cadastrem seus campos| Alta |  |
 |RF-004| Permitir que os jogadores possam realizar a reserva dos campos | Alta | |
-|RF-005| Criar uma interface para a criação de times| ALTA |  |
+|RF-005| Criar uma interface para a criação de times| Alta |  |
 |RF-006| Desenvolver uma página falando dos benefícios de se praticar esportes| Média | |
-|RF-007| Criar um FAQ, frequently asked questions, que contenha as dúvidas mais comuns dos usuários | ALTA |  |
+|RF-007| Criar um FAQ, frequently asked questions, que contenha as dúvidas mais comuns dos usuários | Alta |  |
 |RF-008| Desenvolver uma página com tutoriais de como se utilizar o software | Alta | |
 |RF-009| Criar uma página que contenha vídeos ensinando a evoluir no futebol | Baixa |  |
-|RF-010| Criar uma página com os termos de uso do software  | MÉDIA | |
+|RF-010| Criar uma página com os termos de uso do software  | Média | |
 
 
 ### Requisitos não Funcionais
@@ -63,7 +63,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve funcionar sem bugs | Alta | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  Baixa | 
 |RNF-003| O sistema deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez | Alta | 
 |RNF-004| O sistema deve utilizar um meio de armazenamento de dados seguro |  Alta | 
 |RNF-005| O sistema deve utilizar o mínimo de armazenamento possível, para tornar mais rápida à sua execução | Média | 
