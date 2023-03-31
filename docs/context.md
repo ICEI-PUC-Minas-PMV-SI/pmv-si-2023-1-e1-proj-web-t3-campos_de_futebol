@@ -21,7 +21,7 @@ Pessoas interessadas em jogar futebol enfrentam dificuldades ao tentar encontrar
 
 ## Justificativa
 
-O futebol é um esporte muito popular em todo o mundo, e o Brasil é um dos países onde ele mais é praticado. De acordo com uma pesquisa da Universidade de São Paulo (USP)[...], cerca de 7% dos brasileiros ou 15 milhões de pessoas jogam futebol regularmente.  Essa demanda motivou o desenvolvimento do site Football Maps, uma plataforma que possibilita aos usuários pesquisar por campos de futebol próximos, visualizar fotos e avaliações de outros jogadores e fazer reservas diretamente pelo aplicativo.
+O futebol é um esporte muito popular em todo o mundo, e o Brasil é um dos países onde ele mais é praticado. De acordo com uma pesquisa da Universidade de São Paulo (USP)[1], cerca de 7% dos brasileiros ou 15 milhões de pessoas jogam futebol regularmente.  Essa demanda motivou o desenvolvimento do site Football Maps, uma plataforma que possibilita aos usuários pesquisar por campos de futebol próximos, visualizar fotos e avaliações de outros jogadores e fazer reservas diretamente pelo aplicativo.
 
 
 ## Público-Alvo
