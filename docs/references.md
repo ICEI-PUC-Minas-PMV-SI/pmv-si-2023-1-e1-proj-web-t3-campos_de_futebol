@@ -7,7 +7,7 @@ Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvo
 
 Exemplos de referências bibliográficas:
 
-**[1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+**[1]** - _BBC, Quem joga futebol uma vez por semana é ativo ou sedentário?. Disponível em: (https://www.bbc.com/portuguese/geral-63505828#:~:text=De%20acordo%20com%20uma%20pesquisa,de%20pessoas%20—%20jogam%20futebol%20regularmente.). Acesso em: 29/03/2023_
 
 **[2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
 
