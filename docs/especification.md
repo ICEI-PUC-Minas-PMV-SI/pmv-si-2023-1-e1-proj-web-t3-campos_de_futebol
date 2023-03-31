@@ -77,12 +77,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deve ser entregue e apresentado até o dia 12/07/2023 |
+|02| O desenvolvimento do projeto deve ser realizado usando apenas as linguagens JavaScript, CSS e HTML |
+|03| O projeto deve ser dividido em 5 etapas, com propostas e objetivos diferentes, seguindo seus respectivos prazos |
+|04| A interface do projeto deve ser apresentável, interativa e de fácil compreensão para os usuários |       
+|05| O projeto deve ser dividido em estruturas estáticas e dinâmicas, conforme necessário, para atender às necessidades do usuário |       
+|06| O projeto deve ser otimizado para garantir a melhor performance possível para os usuários, incluindo o tempo de carregamento da página e a interatividade |       
+|07| O projeto deve ser testado minuciosamente antes da apresentação final, para garantir que esteja funcionando corretamente e sem bugs |       
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
