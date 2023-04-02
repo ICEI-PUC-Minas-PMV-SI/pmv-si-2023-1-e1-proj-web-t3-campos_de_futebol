@@ -22,14 +22,15 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+Nome	         Objetivo	                                                     Benefício
+Cláudio        Acessar horários e valores de aluguel de campos de futebol.	 Conseguir encontrar e escolher campos com preços mais acessíveis e com disponibilidade                                                                                  para jogar com os amigos.
+Rafael	       Encontrar campos de futebol perto de sua residência ou        Evitar o trânsito e ter mais facilidade para chegar aos campos de futebol para jogar.
+               universidade.
+Ulisses	       Ter informações sobre campos de futebol em cidades vizinhas    Conseguir encontrar opções de campos próximos para jogar com seus amigos.
+               e próximas.                                                            	
+Édson       	 Anunciar seu campo de futebol e receber reservas.              Conseguir alugar seu campo com mais frequência e facilidade.
+Elisa       	 Acessar informações sobre campos de futebol disponíveis      	Organizar cronogramas de jogos e encontrar campos com preços mais em conta para o                        em sua região.                                                   campeonato que coordena.
+             
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
