@@ -22,6 +22,14 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
+Nome	Objetivo	Benefício
+Cláudio	Acessar horários e valores de aluguel de campos de futebol	Conseguir encontrar e escolher campos com preços mais acessíveis e com disponibilidade para jogar com os amigos
+Rafael	Encontrar campos de futebol perto de sua residência ou universidade	Evitar o trânsito e ter mais facilidade para chegar aos campos de futebol para jogar
+Ulisses	Ter informações sobre campos de futebol em cidades vizinhas e próximas	Conseguir encontrar opções de campos próximos para jogar com seus amigos
+Édson	Anunciar seu campo de futebol e receber reservas	Conseguir alugar seu campo com mais frequência e facilidade
+Elisa	Acessar informações sobre campos de futebol disponíveis em sua região	Organizar cronogramas de jogos e encontrar campos com preços mais em conta para o campeonato que coordena
+             
+
 Nome	         Objetivo	                                                     Benefício
 Cláudio        Acessar horários e valores de aluguel de campos de futebol.	 Conseguir encontrar e escolher campos com preços mais acessíveis e com disponibilidade                                                                                  para jogar com os amigos.
 Rafael	       Encontrar campos de futebol perto de sua residência ou        Evitar o trânsito e ter mais facilidade para chegar aos campos de futebol para jogar.
