@@ -1,13 +1,8 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O futebol é o esporte mais popular do mundo, com milhões de jogadores e torcedores em todo o planeta. No Brasil, em particular, o futebol é parte da cultura nacional e é praticado em todos os cantos do país. Porém, muitas vezes, encontrar um campo de futebol disponível para jogar pode ser um desafio para os entusiastas do esporte. Com a crescente urbanização das cidades e o aumento do número de condomínios fechados, muitos espaços abertos estão sendo transformados em áreas privadas, limitando o acesso ao esporte para muitos jogadores.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+O Footbal Maps surge como uma solução para essa dor dos jogadores de futebol. A ferramenta permitirá que os usuários encontrem campos de futebol disponíveis para alugar em sua região de interesse, tornando mais fácil a busca por espaços adequados para jogar. A plataforma irá conectar os jogadores com donos de campos de futebol que desejam disponibilizar seus espaços para aluguel, criando uma rede de oferta e demanda que beneficia todos os envolvidos. Com essa iniciativa, esperamos incentivar a prática do esporte e torná-lo mais acessível para todos.
 
 ## Problema
 
