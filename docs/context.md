@@ -20,4 +20,4 @@ O futebol é um esporte muito popular em todo o mundo, e o Brasil é um dos paí
 
 
 ## Público-Alvo
-O público-alvo do projeto é composto por qualquer indivíduo ou grupo que tenha interesse em reservar campos de futebol para "peladas", proprietários de campos, organizadores de campeonatos amadores e de base.
+O público-alvo do projeto é composto por qualquer indivíduo ou grupo que tenha interesse em reservar campos de futebol para "peladas", proprietários de campos e organizadores de campeonatos amadores e de base.
