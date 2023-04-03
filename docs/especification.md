@@ -6,44 +6,31 @@ Com o uso de tecnologias como geolocalização e integração com o Google Maps,
 
 ## Personas
 
-Personas:
-1. Cláudio é um operador industrial de 30 anos de idade da região metropolitana de Belo Horizonte. Tem nível técnico de formação, tem renda mensal na faixa dos R$2.500,00 a R$3.000,00. É casado, tem dois filhos e procura campos de futebol para jogar "peladas" com os
-amigos ao menos 2 vezes por mês. Organiza as partidas principalmente por WhatsApp e grupos do Facebook e divide o valor do aluguel dos campos
-com os amigos. Tem dificuldade em encontrar campos de futebol disponíveis graças à alta procura por estes em sua região, gostaria de ter acesso
-aos horários e valores para aluguel de campos com mais facilidade. Para ele, valores mais "em conta" são um fator muito importante de escolha.
+Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
-2. Rafael é um estudante universitário de 21 anos de idade, da capital paulista. Não possui renda fixa, mas seus pais arcam com seus gastos.
-É solteiro, sem filhos. Procura campos para jogar com seus colegas de curso e amigos do ensino médio todos os sábados do mês. Tem dificuldade em 
-encontrar campos de futebol disponíveis graças à alta procura por estes em sua região, gostaria de ter acesso aos horários e valores para aluguel 
-de campos com mais facilidade. Sua principal dificuldade quanto à procura por campos de futebol é encontrar campos perto de sua residência,
-ou universidade, para evitar o trânsito. Usa ativamente as redes sociais, principalmente Instagram, Twitter e aplicativos de bate-papo como Discord e WhatsApp.
+Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-3. Ulisses é um engenheiro civil de 43 anos, com renda na faixa dos R$6.000,00 à R$7.000,00 da cidade de Moema no interior de Minas Gerais.
-Tem tempo e renda o suficiente para estes não serem fatores decisivos na escolha de um campo de futebol para jogar com seus amigos de longa data.
-Porém, a escassez de campos em sua região torna difícil o acesso, por isso gostaria de ter informações sobre campos em cidades vizinhas e próximas onde poderia jogar. Utiliza apenas o WhatsApp e o Telegram como forma de comunicação digital.
-
-4. Édson tem 35 anos e é proprietário de um campo de futebol. É casado e atua com venda de imóveis. Para Édson, tem sido difícil encontrar pessoas interessadas em alugar seu campo e por isso ele tem ficado vago algumas vezes ao mês. Gostaria portanto de ter um lugar fácil e de uso simples para anunciar seu campo, de modo que as pessoas possam reservá-lo e conseguir mais informações sobre. Édson tem alguma familiaridade com o uso de aplicativos e sites, mas ainda têm algumas dificuldades. Para ele seria ótimo um site onde pudesse navegar facilmente.
-
-5. Elisa tem 28 anos, casada, e é a coordenadora de um campeonato de times amadores de futebol no Rio de Janeiro. Gostaria de ter acesso fácil e simples aos campos disponíveis em sua região, para organizar cronogramas de jogos e analisar quais sairiam mais em conta, de acordo com as necessidades do campeonato. Tem familiaridade com redes sociais e atualmente utiliza apenas grupos do Facebook e pesquisas no Google para encontrar informações. Para entrar em contato com os campos precisa telefonar para cada um separadamente, o que demanda muito tempo e pesquisa.
+> **Links Úteis**:
+> - [Rock Content](https://rockcontent.com/blog/personas/)
+> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
+> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
+> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
+> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+>
+Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários 
 
-Nome	         Objetivo	                                                     Benefício
-Cláudio        Acessar horários e valores de aluguel de campos de futebol.	 Conseguir encontrar e escolher campos com preços mais acessíveis e com disponibilidade                                                                                  para jogar com os amigos.
-Rafael	       Encontrar campos de futebol perto de sua residência ou        Evitar o trânsito e ter mais facilidade para chegar aos campos de futebol para jogar.
-               universidade.
-Ulisses	       Ter informações sobre campos de futebol em cidades vizinhas    Conseguir encontrar opções de campos próximos para jogar com seus amigos.
-               e próximas.                                                            	
-Édson       	 Anunciar seu campo de futebol e receber reservas.              Conseguir alugar seu campo com mais frequência e facilidade.
-Elisa       	 Acessar informações sobre campos de futebol disponíveis      	Organizar cronogramas de jogos e encontrar campos com preços mais em conta para o                        em sua região.                                                   campeonato que coordena.
              
+|Nome    | Objetivo  | Benefício | |
+|------|-----------------------------------------|----| ----|
+|Cláudio|  Acessar horários e valores de aluguel de campos de futebol. | Conseguir encontrar e escolher campos com preços mais acessíveis e com disponibilidade para jogar com os amigos.|      
+|Rafael|   Encontrar campos de futebol perto de sua residência ou universidade. | Evitar o trânsito e ter mais facilidade para chegar aos campos de futebol para jogar.| 
+|Ulisses|  Ter informações sobre campos de futebol em cidades vizinhas e próximas. |  Conseguir encontrar opções de campos próximos para jogar com seus amigos. | 
+|Édson|  Anunciar seu campo de futebol e receber reservas.  |  Conseguir alugar seu campo com mais frequência e facilidade. | 
+|Elisa|   Acessar informações sobre campos de futebol disponíveis em sua região. | Organizar cronogramas de jogos e encontrar campos com preços mais em conta para o     campeonato que coordena. | 
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
