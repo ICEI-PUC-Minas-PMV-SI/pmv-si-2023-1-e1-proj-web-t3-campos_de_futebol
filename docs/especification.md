@@ -47,13 +47,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Criar uma interface para a realização do cadastro e login | Alta |  |
 |RF-002| Criar um botão para que o usuário possa solicitar a alteração de sua senha | Alta | |
 |RF-003| Permitir que os donos cadastrem seus campos| Alta |  |
-|RF-004| Permitir que os jogadores possam realizar a reserva dos campos | Alta | |
-|RF-005| Criar uma interface para a criação de times| Alta |  |
-|RF-006| Desenvolver uma página falando dos benefícios de se praticar esportes| Média | |
-|RF-007| Criar um FAQ, frequently asked questions, que contenha as dúvidas mais comuns dos usuários | Alta |  |
-|RF-008| Desenvolver uma página com tutoriais de como se utilizar o software | Alta | |
-|RF-009| Criar uma página que contenha vídeos ensinando a evoluir no futebol | Baixa |  |
-|RF-010| Criar uma página com os termos de uso do software  | Média | |
+|RF-004| Criar uma página onde seja possível ver os campos disponíveis | Alta | |
+|RF-005| Permitir que os jogadores possam realizar a reserva dos campos | Alta | |
+|RF-006| Criar uma interface para a criação de times| Alta |  |
+|RF-007| Desenvolver uma página falando dos benefícios de se praticar esportes| Média | |
+|RF-008| Criar um FAQ, frequently asked questions, que contenha as dúvidas mais comuns dos usuários | Alta |  |
+|RF-009| Desenvolver uma página com tutoriais de como se utilizar o software | Alta | |
+|RF-010| Criar uma página que contenha vídeos ensinando a evoluir no futebol | Baixa |  |
+|RF-011| Criar uma página com os termos de uso do software  | Média | |
 
 
 ### Requisitos não Funcionais
