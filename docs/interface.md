@@ -22,7 +22,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ### Página de login
 
-A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
+A página principal de login é responsável por conceder acesso a quem já possui uma conta, e também oferece opções para criação de conta e recuperação de senha.
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
