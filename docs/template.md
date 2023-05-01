@@ -21,4 +21,40 @@ Apresente as fontes que serão utilizadas e sua função no site. As principais 
 
 ## Iconografia
 
-Ícones que serão utilizados na página principal do site e seus propósitos.
+### Ícones que serão utilizados no site e seus propósitos.
+
+<br><br><br>
+
+<img src="/docs/ÍCONES FOOTBALL MAPS/lupa.png" alt="icone de lupa" width="150px">
+
+### Lupa que indica a área de pesquisa/filtro
+
+<br><br>
+
+<img src="/docs/ÍCONES FOOTBALL MAPS/usuario.png" alt="icone de usúario" width="150px">
+
+### Indica o perfil do usuário
+
+<br><br>
+
+<img src="/docs/ÍCONES FOOTBALL MAPS/pontos.png" alt="icone de três pontos" width="150px">
+
+### Dá outras possibilidades em relação ao post
+
+<br><br>
+
+<img src="/docs/ÍCONES FOOTBALL MAPS/criacao.png" alt="icone de criaçaõ de post" width="150px">
+
+### Encaminha para a área de criação de anúncio
+
+<br><br>
+
+<img src="/docs/ÍCONES FOOTBALL MAPS/voltar.png" alt="icone para voltar página" width="150px">
+
+### Indica que irá voltar para a página anterior
+
+<br><br>
+
+<img src="/docs/ÍCONES FOOTBALL MAPS/opcoes.png" alt="icone de opções" width="150px">
+
+### Dá opções para serem selecionadas no campo
