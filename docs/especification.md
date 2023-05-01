@@ -44,29 +44,31 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Criar uma interface para a realização do cadastro e login | Alta |  |
-|RF-002| Criar um botão para que o usuário possa solicitar a alteração de sua senha | Alta | |
-|RF-003| Permitir que os donos cadastrem seus campos| Alta |  |
-|RF-004| Criar uma página onde seja possível ver os campos disponíveis | Alta | |
-|RF-005| Permitir que os jogadores possam realizar a reserva dos campos | Alta | |
-|RF-006| Criar uma interface para a criação de times| Alta |  |
-|RF-007| Desenvolver uma página falando dos benefícios de se praticar esportes| Média | |
-|RF-008| Criar um FAQ, frequently asked questions, que contenha as dúvidas mais comuns dos usuários | Alta |  |
-|RF-009| Desenvolver uma página com tutoriais de como se utilizar o software | Alta | |
-|RF-010| Criar uma página que contenha vídeos ensinando a evoluir no futebol | Baixa |  |
-|RF-011| Criar uma página com os termos de uso do software  | Média | |
+|RF-001| A aplicação deve ter interface que permita o auto-cadastro de usuários do tipo cliente ou proprietário | Alta |  |
+|RF-002| A aplicação deve permitir que usários cadastrados façam login | Alta |  |
+|RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Alta | |
+|RF-004| A aplicação deve permitir que usuários proprietários gerenciem seus campos cadastrados | Alta | |
+|RF-005| A aplicação deve permitir ao usuário cliente visualizar campos disponíveis | Alta | |
+|RF-006| A aplicação deve permitir que o usuário jogador reserve um campo | Alta | |
+|RF-007| A aplicação deve possibilitar a criação de times, registrando informações dos jogadores | Alta | |
+|RF-008| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Média | |
+|RF-009| A aplicação dever ter um FAQ (frequently asked questions), onde os usuários possam ver respostas para as dúvidas mais comuns | Alta |  |
+|RF-010| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Alta | |
+|RF-011| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Baixa | |
+|RF-012| A aplicação deve ter uma página com os termos de uso do software  | Média | |
+|RF-013| O sistema deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez | Alta | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve funcionar sem bugs | Alta | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  Baixa | 
-|RNF-003| O sistema deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez | Alta | 
-|RNF-004| O sistema deve utilizar um meio de armazenamento de dados seguro |  Alta | 
-|RNF-005| O sistema deve utilizar o mínimo de armazenamento possível, para tornar mais rápida à sua execução | Média | 
-|RNF-006| O sistema deve funcionar em todo tipo de computador |  Média | 
+|RNF-001| O sistema deve processar requisições do usuário em no máximo 3s |  Baixa | 
+|RNF-002| O sistema deve utilizar um meio de armazenamento de dados seguro |  Alta | 
+|RNF-003| O sistema deve utilizar o mínimo de armazenamento possível, para tornar mais rápida à sua execução | Média | 
+|RNF-004| O sistema deve funcionar em todo tipo de computador |  Média | 
+|RNF-005| O desenvolvimento do projeto deve ser realizado usando apenas as linguagens JavaScript, CSS e HTML |
+|RNF-006| A interface do projeto deve ser apresentável, interativa e de fácil compreensão para os usuários |   
 
 
 
@@ -77,12 +79,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deve ser entregue e apresentado até o dia 12/07/2023 |
-|02| O desenvolvimento do projeto deve ser realizado usando apenas as linguagens JavaScript, CSS e HTML |
-|03| O projeto deve ser dividido em 5 etapas, com propostas e objetivos diferentes, seguindo seus respectivos prazos |
-|04| A interface do projeto deve ser apresentável, interativa e de fácil compreensão para os usuários |       
-|05| O projeto deve ser dividido em estruturas estáticas e dinâmicas, conforme necessário, para atender às necessidades do usuário |       
-|06| O projeto deve ser otimizado para garantir a melhor performance possível para os usuários, incluindo o tempo de carregamento da página e a interatividade |       
-|07| O projeto deve ser testado minuciosamente antes da apresentação final, para garantir que esteja funcionando corretamente e sem bugs |       
+|02| O projeto deve ser dividido em 5 etapas, com propostas e objetivos diferentes, seguindo seus respectivos prazos |   
+|03| O projeto deve ser dividido em estruturas estáticas e dinâmicas, conforme necessário, para atender às necessidades do usuário |       
+|04| O projeto deve ser otimizado para garantir a melhor performance possível para os usuários, incluindo o tempo de carregamento da página e a interatividade |       
+|05| O projeto deve ser testado minuciosamente antes da apresentação final, para garantir que esteja funcionando corretamente e sem bugs |       
 
 
 
