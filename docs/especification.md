@@ -4,6 +4,9 @@ Football Maps é uma ferramenta que oferece recursos avançados de busca, locali
 
 Com o uso de tecnologias como geolocalização e integração com o Google Maps, o aplicativo permite que o usuário encontre campos próximos a sua localização, visualize fotos e avaliações de outros jogadores sobre os campos e faça reservas diretamente pelo aplicativo, escolhendo a data, horário e duração desejados.
 
+No mercado já existem algumas soluções que, apesar de não cobrirem o nicho específico que o Football Maps atenderá, possuem funcionamento similar ao que planejamos,
+como, por exemplo, o AirBNB. Esta solução possibilita que pessoas aluguem por tempo determinado apartamentos, kitnets e propriedades para uso pessoal e que proprietários anunciem seus imóveis. A dinâmica dos aplicativos será parecida, porém a possibilidade de criação de times do Football Maps, dentre outras features, tornarão o aplicativo capaz de ocupar um nicho de mercado até então sem solução dedicada.
+
 ## Personas
 1. Cláudio é um operador industrial de 30 anos de idade da região metropolitana de Belo Horizonte. Tem nível técnico de formação, tem renda mensal na faixa dos R$2.500,00 a R$3.000,00. É casado, tem dois filhos e procura campos de futebol para jogar "peladas" com os
 amigos ao menos 2 vezes por mês. Organiza as partidas principalmente por WhatsApp e grupos do Facebook e divide o valor do aluguel dos campos
