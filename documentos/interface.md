@@ -1,9 +1,59 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+Principais interfaces da plataforma:
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Página de login
+Recuperação de senha
+Criação de conta
+Página principal
+Página de anúncio
+Criação de anúncios
+A plataforma foi elaborada de forma a atender aos requisitos funcionais, não funcionais e histórias de usuário definidos na Documentação de Especificações.
+
+Requisitos funcionais:
+
+RF-001: Criar uma interface para a realização do cadastro e login.
+
+Atendido pela página de login e criação de conta.
+RF-002: Criar um botão para que o usuário possa solicitar a alteração de sua senha.
+
+Atendido pelo processo de recuperação de senha, que inclui etapas de envio de código, confirmação do código e criação de nova senha.
+RF-003: Permitir que os donos cadastrem seus campos.
+
+Atendido pela página de criação de anúncios, onde os donos podem cadastrar seus campos com informações essenciais.
+RF-004: Criar uma página onde seja possível ver os campos disponíveis.
+
+Atendido pela página principal, onde os usuários podem visualizar anúncios de campos disponíveis e filtrá-los por região.
+RF-005: Permitir que os jogadores possam realizar a reserva dos campos.
+
+Atendido pela página de anúncio, onde os jogadores podem visualizar detalhes do campo e realizar a reserva.
+Requisitos não funcionais:
+
+RNF-001: Segurança dos dados.
+
+As páginas de login, recuperação de senha e criação de conta foram projetadas para garantir a segurança dos dados dos usuários, como senhas e informações pessoais.
+RNF-002: Usabilidade.
+
+A elaboração das interfaces seguiu princípios de usabilidade, facilitando a interação dos usuários e tornando a plataforma intuitiva e fácil de usar.
+Histórias de usuário:
+
+HU-001: Como usuário, quero poder criar uma conta para acessar a plataforma.
+
+Atendido pela página de criação de conta.
+HU-002: Como usuário, quero poder recuperar minha senha caso a esqueça.
+
+Atendido pelo processo de recuperação de senha, que inclui etapas de envio de código, confirmação do código e criação de nova senha.
+HU-003: Como jogador, quero poder ver os campos disponíveis para reserva.
+
+Atendido pela página principal, onde os usuários podem visualizar anúncios de campos disponíveis.
+HU-004: Como jogador, quero poder realizar a reserva de um campo.
+
+Atendido pela página de anúncio, onde os jogadores podem visualizar detalhes do campo e realizar a reserva.
+HU-005: Como dono de campo, quero poder cadastrar meu campo na plataforma.
+
+Atendido pela página de criação de anúncios, onde os donos podem cadastrar seus campos com informações essenciais.
+Os wireframes (protótipos visuais) foram desenvolvidos para representar visualmente as interfaces e suas funcional
 
 ## User Flow
 
