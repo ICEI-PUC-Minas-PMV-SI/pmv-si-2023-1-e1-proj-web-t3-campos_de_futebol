@@ -16,7 +16,11 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+Fonte da barra de pesquisa: Franklin Gothic Medium
+Texto do título dos cards: Franklin Gothic Medium
+Texto dos cards: Segoe UI
+Fonte dos botões: Gill Sans
+
 
 
 ## Iconografia
