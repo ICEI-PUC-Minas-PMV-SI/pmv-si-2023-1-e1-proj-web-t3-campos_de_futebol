@@ -29,6 +29,12 @@ Fonte dos botões: Gill Sans
 
 <br><br><br>
 
+<img src="/docs/ÍCONES FOOTBALL MAPS 2.0/Logo.png" alt="Logo" width="250px">
+
+### Logo do projeto
+
+<br><br>
+
 <img src="/docs/ÍCONES FOOTBALL MAPS 2.0/lupa.png" alt="icone de lupa" width="150px">
 
 ### Lupa que indica a área de pesquisa/filtro
