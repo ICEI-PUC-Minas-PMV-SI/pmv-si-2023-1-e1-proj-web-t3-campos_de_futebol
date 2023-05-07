@@ -29,7 +29,7 @@ Fonte dos botões: Gill Sans
 
 <br><br><br>
 
-<img src="/docs/ÍCONES FOOTBALL MAPS 2.0/Logo.png" alt="Logo" width="250px">
+<img src="/docs/ÍCONES FOOTBALL MAPS 2.0/logo1.png" alt="logo" width="150px">
 
 ### Logo do projeto
 
