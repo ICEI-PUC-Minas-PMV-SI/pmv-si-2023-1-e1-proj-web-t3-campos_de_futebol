@@ -11,7 +11,6 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-<img src="/docs/img/Paleta de Cores.jpeg" alt="logo" width="....px">
 
 ## Tipografia
 
