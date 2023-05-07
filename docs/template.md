@@ -16,9 +16,9 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 ## Tipografia
 
-Fonte da barra de pesquisa: Franklin Gothic Medium
-Texto do título dos cards: Franklin Gothic Medium
-Texto dos cards: Segoe UI
+Fonte da barra de pesquisa: Franklin Gothic Medium <br/>
+Texto do título dos cards: Franklin Gothic Medium <br/>
+Texto dos cards: Segoe UI <br/>
 Fonte dos botões: Gill Sans
 
 
