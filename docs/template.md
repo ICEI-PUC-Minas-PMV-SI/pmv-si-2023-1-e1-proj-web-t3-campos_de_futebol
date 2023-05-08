@@ -1,12 +1,8 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+<img src = "/docs//Modelo_Padrao/footballMapsDesktop.jpg" alt="Template desktop">
 
-Explique as guias de estilo utilizadas no seu projeto.
-
-## Design
-
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+<img src = "/docs//Modelo_Padrao/footballMapsMobile.jpg" alt="Template mobile" width="400px">
 
 
 ## Cores
