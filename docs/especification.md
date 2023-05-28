@@ -48,8 +48,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
 |RF-001| A aplicação deve ter interface que permita o auto-cadastro de usuários, do tipo cliente ou proprietário | Alta |  |
-|RF-002| A aplicação deve permitir que usuários cadastrados façam login | Alta |  |
-|RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Alta | |
+|RF-002| A aplicação deve permitir que usuários cadastrados façam login | Alta | Samuel |
+|RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Alta | Samuel |
 |RF-004| A aplicação deve permitir que usuários, proprietários, gerenciem seus campos cadastrados | Alta | |
 |RF-005| A aplicação deve permitir ao usuário, cliente, visualizar campos disponíveis | Alta | |
 |RF-006| A aplicação deve permitir que o usuário, jogador, reserve um campo | Alta | |
@@ -57,7 +57,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| A aplicação deve possibilitar a criação de times, registrando informações dos jogadores | Alta | |
 |RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Média | |
 |RF-010| A aplicação dever ter um FAQ (frequently asked questions), onde os usuários possam ver respostas para as dúvidas mais comuns | Alta |  |
-|RF-011| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Alta | |
+|RF-011| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Alta | Samuel |
 |RF-012| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Baixa | |
 |RF-013| A aplicação deve ter uma página com os termos de uso do software  | Média | |
 |RF-014| O sistema deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez | Alta | 
