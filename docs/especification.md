@@ -45,17 +45,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | Responsável |
+|ID    | Descrição do Requisito  | Prioridade | |
 |------|-----------------------------------------|----| ----|
 |RF-001| A aplicação deve ter interface que permita o auto-cadastro de usuários | Alta |  |
 |RF-002| A aplicação deve permitir que usuários cadastrados façam login | Alta | |
 |RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Alta |  |
 |RF-004| A aplicação deve permitir que usuários, proprietários, gerenciem seus campos cadastrados | Alta | |
 |RF-005| A aplicação deve permitir ao usuário, cliente, visualizar campos disponíveis | Alta | |
-|RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Alta | Eduardo |
+|RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Alta | |
 |RF-007| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Alta ||
 |RF-008| A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato | Alta | |
-|RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Alta | Eduardo |
+|RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Alta | |
 |RF-0010| A aplicação deve possibilitar a criação de times, registrando informações dos jogadores | Média | |
 |RF-011| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Média | |
 |RF-012| A aplicação deve ter uma página com os termos de uso do software  | Média | |
@@ -70,8 +70,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O sistema deve utilizar um meio de armazenamento de dados seguro |  Alta | 
 |RNF-003| O sistema deve utilizar o mínimo de armazenamento possível, para tornar mais rápida à sua execução | Média | 
 |RNF-004| O sistema deve funcionar em todo tipo de computador |  Média | 
-|RNF-005| O desenvolvimento do projeto deve ser realizado usando apenas as linguagens JavaScript, CSS e HTML |
-|RNF-006| A interface do projeto deve ser apresentável, interativa e de fácil compreensão para os usuários |   
+|RNF-005| O desenvolvimento do projeto deve ser realizado usando apenas as linguagens JavaScript, CSS e HTML | Alta |
+|RNF-006| A interface do projeto deve ser apresentável, interativa e de fácil compreensão para os usuários |Alta |  
 
 
 
