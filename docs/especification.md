@@ -52,9 +52,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Alta |  |
 |RF-004| A aplicação deve permitir que usuários, proprietários, gerenciem seus campos cadastrados | Alta | |
 |RF-005| A aplicação deve permitir ao usuário, cliente, visualizar campos disponíveis | Alta | |
-|RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Alta | |
+|RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Alta | Eduardo |
 |RF-007| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Alta ||
-|RF-008| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Alta | |
+|RF-008| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Alta | Eduardo |
 |RF-009| A aplicação deve possibilitar a criação de times, registrando informações dos jogadores | Média | |
 |RF-010| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Média | |
 |RF-011| A aplicação deve ter uma página com os termos de uso do software  | Média | |
