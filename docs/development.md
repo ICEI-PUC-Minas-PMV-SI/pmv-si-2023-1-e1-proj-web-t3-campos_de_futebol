@@ -25,10 +25,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito | Prioridade | Artefato Criado |
-|------|------------------------|------------|-----------------|
-|RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
-|RF-002| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
+|ID    | Descrição do Requisito  | Responsável | Artefato Criado |
+|------|-----------------------------------------|----| ----|
+|RF-001| A aplicação deve ter interface que permita o auto-cadastro de usuários | Artur  |  |
+|RF-002| A aplicação deve permitir que usuários cadastrados façam login | Samuel  | |
+|RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Samuel |  |
+|RF-004| A aplicação deve permitir que usuários, proprietários, gerenciem seus campos cadastrados | Emanuel | |
+|RF-005| A aplicação deve permitir ao usuário, cliente, visualizar campos disponíveis | Emanuel | |
+|RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Eduardo | |
+|RF-007| A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato | Vitor | |
+|RF-008| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Samuel | |
+|RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Eduardo | |
+|RF-010| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol |  | |
+|RF-011| A aplicação deve ter uma página com os termos de uso do software  | Vitor | |
+|RF-012| O sistema deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez |  | 
 
 ## Descrição das estruturas:
 
