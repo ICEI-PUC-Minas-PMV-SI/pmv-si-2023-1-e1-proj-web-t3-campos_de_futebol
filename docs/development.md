@@ -38,7 +38,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Eduardo | |
 |RF-010| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol |  | |
 |RF-011| A aplicação deve ter uma página com os termos de uso do software  | Vitor | |
-|RF-012| A aplicação deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez |  | 
+|RF-012| A aplicação deve fornecer um link que leve a página da política de privacidade | Artur | 
 
 ## Descrição das estruturas:
 
