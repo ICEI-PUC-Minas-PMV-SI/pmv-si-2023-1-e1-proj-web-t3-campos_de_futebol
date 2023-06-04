@@ -35,7 +35,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Eduardo | cadastrodecamo.html|
 |RF-007| A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato | Vitor | areaDeAnuncio.html , areaDeAnuncio2.html |
 |RF-008| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Samuel | tfut.html |
-|RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Eduardo | BenefíciosDePraticarFutebol.html |
+|RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar futebol| Eduardo | BenefíciosDePraticarFutebol.html |
 |RF-010| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Emanuel | vídeos.html |
 |RF-011| A aplicação deve ter uma página com os termos de uso do software  | Vitor | termosDeUso.html |
 |RF-012| A aplicação deve fornecer um link que leve a página da política de privacidade | Artur | politica.html | 
