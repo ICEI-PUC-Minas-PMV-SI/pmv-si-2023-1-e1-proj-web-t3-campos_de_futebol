@@ -59,7 +59,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-0010| A aplicação deve possibilitar a criação de times, registrando informações dos jogadores | Média | |
 |RF-011| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Média | |
 |RF-012| A aplicação deve ter uma página com os termos de uso do software  | Média | |
-|RF-013| A aplicação deve fornecer um link que leve a página da política de privacidade, quando iniciado pela primeira vez | Média | 
+|RF-013| A aplicação deve fornecer um link que leve a página da política de privacidade | Média | 
 
 
 ### Requisitos não Funcionais
