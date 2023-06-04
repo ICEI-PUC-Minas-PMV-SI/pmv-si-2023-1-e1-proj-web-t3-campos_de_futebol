@@ -27,26 +27,32 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito  | Responsável | Artefato Criado |
 |------|-----------------------------------------|----| ----|
-|RF-001| A aplicação deve ter interface que permita o auto-cadastro de usuários | Artur  |  |
-|RF-002| A aplicação deve permitir que usuários cadastrados façam login | Samuel  | |
-|RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Samuel |  |
-|RF-004| A aplicação deve permitir que usuários, proprietários, gerenciem seus campos cadastrados | Emanuel | |
-|RF-005| A aplicação deve permitir ao usuário, cliente, visualizar campos disponíveis | Emanuel | |
-|RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Eduardo | |
-|RF-007| A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato | Vitor | |
-|RF-008| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Samuel | |
-|RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Eduardo | |
-|RF-010| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Emanuel | |
-|RF-011| A aplicação deve ter uma página com os termos de uso do software  | Vitor | |
-|RF-012| A aplicação deve fornecer um link que leve a página da política de privacidade | Artur | 
+|RF-001| A aplicação deve ter interface que permita o auto-cadastro de usuários | Artur  | cadastro.html |
+|RF-002| A aplicação deve permitir que usuários cadastrados façam login | Samuel  | tlogin.html |
+|RF-003| A aplicação deve possibilitar que o usuário cadastrado altere sua própria senha | Samuel | rsenha.html , csenha.html, nsenha.html |
+|RF-004| A aplicação deve permitir que usuários, proprietários, gerenciem seus campos cadastrados | Emanuel |index.html |
+|RF-005| A aplicação deve permitir ao usuário, cliente, visualizar campos disponíveis | Emanuel | index.html |
+|RF-006| A aplicação deve permitir que o usuário, proprietário, cadastre um campo | Eduardo | cadastrodecamo.html|
+|RF-007| A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato | Vitor | areaDeAnuncio.html , areaDeAnuncio2.html |
+|RF-008| A aplicação deve ter uma página com tutoriais de como se utilizar o software | Samuel | tfut.html |
+|RF-009| A aplicação deve ter uma página informando dos benefícios de se praticar esportes| Eduardo | Benefícios de praticar futebol.html |
+|RF-010| A aplicação deve ter uma página que contenha vídeos ensinando a evoluir no futebol | Emanuel | vídeos.html |
+|RF-011| A aplicação deve ter uma página com os termos de uso do software  | Vitor | termosDeUso.html |
+|RF-012| A aplicação deve fornecer um link que leve a página da política de privacidade | Artur | politica.html | 
 
 ## Descrição das estruturas:
 
 ## Notícia
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+| Id do usuário            | Numero (Inteiro)  | Identificador único do usuário            |  1      |
+| Nome do usuário         | Texto             | Nome do usuário                         | João Marcos      |
+| Email       | Texto             | Email do usuário                      | email1234@gmail.com            |
+| Senha | Texto  | Senha do usuário | senha123            | 
+| Id do anúncio | Numero (Inteiro)  |Identificador único do anúncio    | 2           | 
+| Título do anúncio | Texto  | Título do anúncio | Campo em São Paulo            | 
+| Descrição do campo | Texto  | Descrição do campo | O campo tem 40 metros de comprimento e 20 de largura.    | 
+|Localização do campo | Url  | Localização do campo |    https://maps.google.com/?cid=9907689870538344704&entry=gps        | 
+| Contato | Número / Url | Informações de contato | (31) 99999-9999  / https://instagram.com/pucminas.virtual?igshid=NTc4MTIwNjQ2YQ==           | 
+
 
