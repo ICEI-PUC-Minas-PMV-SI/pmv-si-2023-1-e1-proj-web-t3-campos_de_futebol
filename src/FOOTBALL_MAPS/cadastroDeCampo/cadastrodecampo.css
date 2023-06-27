@@ -74,17 +74,11 @@ button {
        
 }
 
-.content{
-    align-items: center;
-    text-align: center;
-     
-}
-
 .textos{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:#1ecf99;
     display: flex;
-    flex-wrap: wrap; 
+    justify-content: space-evenly; 
 }
 
 textarea{
@@ -95,14 +89,13 @@ textarea{
 }
 
 .text1 {
-    margin: 0 auto 20px;
+
     text-align: center;
   }
   
-  .text2 {
-    margin: 0 auto 20px;
+.text2 {
     text-align: center;
-  }
+}
 
 .conteudo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -121,7 +114,7 @@ input[type="file"]{
     color:black;
   }
 
-  input[type="submit"]{
+input[type="submit"]{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:black ;
   }
