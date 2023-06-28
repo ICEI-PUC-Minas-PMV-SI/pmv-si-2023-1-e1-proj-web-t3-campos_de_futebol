@@ -41,7 +41,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
 
-## Registro dos Testes de Software
+**Caso de Teste** | **CT01 - Visualizar anúncio do campo ou quadra**
+ :--------------: | ------------
+**Procedimento**  | 1) Acesse a página de anúncio do campo ou quadra.<br>2) Verifique se as imagens estão sendo exibidas corretamente.<br> 3) Verifique se o link da localização está funcionando corretamente.<br> 4) Verifique se o link que leva a um meio de contato está funcionando corretamente.
+**Requisitos associados** | ?
+**Resultado esperado** | Uma boa visualização do local e acesso a suas informações.
+**Dados de entrada** | Inserção de dados válidos na criação de conta.
+**Resultado obtido** | Sucesso.
+
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
