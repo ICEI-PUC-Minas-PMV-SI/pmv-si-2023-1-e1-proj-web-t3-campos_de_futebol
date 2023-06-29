@@ -11,21 +11,18 @@
     {
       "id": 2,
       "imagem": "midias/quadra2.jpg",
-      "titulo": "Campo 2",
+      "titulo": "campo 2",
       "descricao": "Descrição do Campo 2",
       "localizacao": "Localização do Campo 2",
       "contato": "Contato do Campo 2"
     },
-    {
+      {
       "campoImagem": "C:\\fakepath\\download.jpg",
-      "titulo": "3",
-      "descricao": "3",
-      "localizacao": "3",
-      "contato": "3",
-      "id": 3
-    },
-    {
-      "id": 4
+      "titulo": "teste",
+      "descricao": "teste",
+      "localizacao": "teste",
+      "contato": "teste",
+      "id": 1
     }
   ]
 }
