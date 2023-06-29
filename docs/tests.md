@@ -62,6 +62,10 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
+|*Caso de Teste*                                 |*CT01 - Visualizar anúncio do campo ou quadra*                                         |
+|---|---|
+|Requisito Associado | RF-007 - A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato.|
+|Link do vídeo do teste realizado: | ? | 
 
 ## Avaliação dos Testes de Software
 
