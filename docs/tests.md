@@ -43,7 +43,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT01 - Visualizar anúncio do campo ou quadra**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse a página de anúncio do campo ou quadra.<br>2) Verifique se as imagens estão sendo exibidas corretamente.<br> 3) Verifique se o link da localização está funcionando corretamente.<br> 4) Verifique se o link que leva a um meio de contato está funcionando corretamente.
+**Procedimento**  | 1) Clique no botão "Detalhes" do anúncio escolhido para acessá-lo.<br>2) Verifique se as imagens estão sendo exibidas corretamente.<br> 3) Verifique se o link da localização está funcionando corretamente.<br> 4) Verifique se o link que leva a um meio de contato está funcionando corretamente.
 **Requisitos associados** | RF-007
 **Resultado esperado** | Uma boa visualização do local e acesso a suas informações.
 **Dados de entrada** | Inserção de dados válidos na criação de conta.
