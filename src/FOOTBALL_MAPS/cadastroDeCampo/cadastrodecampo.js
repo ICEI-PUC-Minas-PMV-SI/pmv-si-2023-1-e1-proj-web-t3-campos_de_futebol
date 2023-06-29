@@ -26,11 +26,18 @@ function enviarFormulario() {
   })
   .then(response => response.json())
   .then(data => {
-    console.log('Dados armazenados com sucesso:', data);
+    console.log('Campo criado com sucesso:', data);
+    exibirMensagem('Campo criado com sucesso');
   })
   .catch(error => {
     console.error('Erro ao armazenar os dados:', error);
+    exibirMensagem('Erro ao criar o campo');
   });
+}
+
+function exibirMensagem(mensagem) {
+  var mensagemElement = document.getElementById('mensagem');
+  mensagemElement.textContent = mensagem;
 }
 
 var botaoCriar = document.getElementById('botaoEnviar');
