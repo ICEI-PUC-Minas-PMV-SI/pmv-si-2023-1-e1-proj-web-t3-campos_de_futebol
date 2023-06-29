@@ -112,6 +112,7 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 |---------------|----------------------|
 | 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
 | 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
+| 3             | Você escolheu uma quadra e deseja ver os seus detalhes como fotos, localização e meio de contato. |
 
 
 
@@ -150,6 +151,20 @@ Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,0
     Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
     redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
     tanto na hora da pesquisa, quanto depois dela, nos resultados.
+
+Cenário 3: Você escolheu uma quadra e deseja ver os seus detalhes como fotos, localização e meio de contato.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 00.00 segundos                          |
+| 2       | SIM             | 5                    | 00.00 segundos                         |
+| 3       | SIM             | 5                    | 00.00 segundos                          |
+|  |  |  |  |
+| **Média**     | 0%           | 0                | 0 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 00.00 segundos |
+
+
+    Comentários dos usuários: Será implementado
 
 
 
