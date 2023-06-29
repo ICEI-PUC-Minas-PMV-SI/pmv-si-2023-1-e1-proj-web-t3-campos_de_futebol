@@ -5,6 +5,10 @@ function enviarFormulario() {
   var localizacao = document.querySelector('textarea[name="localizacao"]').value;
   var contato = document.querySelector('textarea[name="MeiosDeContato"]').value;
 
+  if (campoImagem === '' || titulo === '' || descricao === '' || localizacao === '' || contato === '') {
+    alert('Por favor, preencha todos os campos obrigatórios.');
+    return;
+  }
   var dadosFormulario = {
     campoImagem: campoImagem,
     titulo: titulo,
