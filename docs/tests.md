@@ -156,12 +156,12 @@ Cenário 3: Você escolheu uma quadra e deseja ver os seus detalhes como fotos, 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 00.00 segundos                          |
-| 2       | SIM             | 5                    | 00.00 segundos                         |
-| 3       | SIM             | 5                    | 00.00 segundos                          |
+| 1       | SIM             | 5                    | 17.27 segundos                          |
+| 2       | SIM             | 5                    | 12.23 segundos                         |
+| 3       | SIM             | 5                    | 15.02 segundos                          |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 00.00 segundos |
+| **Média**     | 100%           | 5                | 14.84 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 10.00 segundos |
 
 
     Comentários dos usuários: Será implementado
