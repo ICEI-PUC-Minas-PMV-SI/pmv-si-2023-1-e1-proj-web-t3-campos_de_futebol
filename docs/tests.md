@@ -126,6 +126,7 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 | 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
 | 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
 | 3             | Você escolheu uma quadra e deseja ver os seus detalhes como fotos, localização e meio de contato. |
+| 4             | Você é um proprietário de um campo de futebol e deseja cadastra-lo em nossa plataforma. |
 
 
 
@@ -180,7 +181,20 @@ Cenário 3: Você escolheu uma quadra e deseja ver os seus detalhes como fotos, 
     Comentários dos usuários: Muito intuitivo e bem simples para localizar as opções,
     porém poderia ser um pouco mais rápido para direcionar a outro link.
 
+Cenário 4:  Você é um proprietário de um campo de futebol e deseja cadastra-lo em nossa plataforma.
 
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 98,10 segundos                         |
+| 2       | SIM             | 5                    | 135,22 segundos                         |
+| 3       | SIM             | 5                    | 110,01 segundos                          |
+|  |  |  |  |
+| **Média**     | 100%           | 5                | 114,44. segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 81,00 segundos |
+
+
+    Comentários dos usuários: Muito intuitivo e bem simples para localizar as opções,
+    porém poderia ser um pouco mais rápido para direcionar a outro link.
 
 
 ## Avaliação dos Testes de Usabilidade
