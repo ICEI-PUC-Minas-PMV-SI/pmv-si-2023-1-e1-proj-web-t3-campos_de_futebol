@@ -164,7 +164,8 @@ Cenário 3: Você escolheu uma quadra e deseja ver os seus detalhes como fotos, 
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 10.00 segundos |
 
 
-    Comentários dos usuários: Será implementado
+    Comentários dos usuários: Muito intuitivo e bem simples para localizar as opções,
+    porém poderia ser um pouco mais rápido para direcionar a outro link.
 
 
 
