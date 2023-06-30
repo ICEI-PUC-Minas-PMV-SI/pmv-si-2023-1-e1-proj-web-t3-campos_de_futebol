@@ -1,0 +1,29 @@
+{
+    "campos": [
+      {
+        "campoImagem": "C:\\fakepath\\download.jpg",
+        "titulo": "teste",
+        "descricao": "teste",
+        "localizacao": "teste",
+        "contato": "teste",
+        "id": 1
+      },
+      {
+        "campoImagem": "C:\\fakepath\\download.jpg",
+        "titulo": "12",
+        "descricao": "12",
+        "localizacao": "12",
+        "contato": "12",
+        "id": 2
+      },
+      {
+        "campoImagem": "C:\\fakepath\\download.jpg",
+        "titulo": "1",
+        "descricao": "2",
+        "localizacao": "3",
+        "contato": "4",
+        "id": 3
+      }
+    ]
+  }
+  
