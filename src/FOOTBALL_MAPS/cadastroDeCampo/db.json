@@ -1,7 +1,7 @@
 {
     "campos": [
       {
-        "campoImagem": "C:\\fakepath\\download.jpg",
+        "campoImagem": "midias/quadra1.jpg",
         "titulo": "teste",
         "descricao": "teste",
         "localizacao": "teste",
@@ -9,7 +9,7 @@
         "id": 1
       },
       {
-        "campoImagem": "C:\\fakepath\\download.jpg",
+        "campoImagem": "midias/quadra2.jpg",
         "titulo": "12",
         "descricao": "12",
         "localizacao": "12",
