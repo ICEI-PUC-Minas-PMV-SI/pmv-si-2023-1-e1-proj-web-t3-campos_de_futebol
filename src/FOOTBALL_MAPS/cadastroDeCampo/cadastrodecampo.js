@@ -27,11 +27,10 @@ function enviarFormulario() {
   .then(response => response.json())
   .then(data => {
     console.log('Campo criado com sucesso:', data);
-    exibirMensagem('Campo criado com sucesso');
+    window.location.href = "index.html";
   })
   .catch(error => {
-    console.error('Erro ao armazenar os dados:', error);
-    exibirMensagem('Erro ao criar o campo');
+    console.error('Erro ao armazenar os dados:', error);;
   });
 }
 
