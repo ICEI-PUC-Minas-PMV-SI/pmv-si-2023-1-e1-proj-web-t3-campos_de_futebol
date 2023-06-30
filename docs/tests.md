@@ -193,8 +193,8 @@ Cenário 4:  Você é um proprietário de um campo de futebol e deseja cadastra-
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 81,00 segundos |
 
 
-    Comentários dos usuários: Muito intuitivo e bem simples para localizar as opções,
-    porém poderia ser um pouco mais rápido para direcionar a outro link.
+    Comentários dos usuários: Muito claro e bem simples para identificar e preencher o local das informações,
+    porém poderia dar uma resposta após criar o anúncio do campo, algo como "campo criado como sucesso".
 
 
 ## Avaliação dos Testes de Usabilidade
