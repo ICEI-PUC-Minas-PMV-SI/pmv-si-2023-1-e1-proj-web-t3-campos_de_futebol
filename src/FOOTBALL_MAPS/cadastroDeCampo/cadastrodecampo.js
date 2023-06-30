@@ -5,6 +5,7 @@ function enviarFormulario() {
   var localizacao = document.querySelector('textarea[name="localizacao"]').value;
   var contato = document.querySelector('textarea[name="MeiosDeContato"]').value;
 
+
   if (campoImagem === '' || titulo === '' || descricao === '' || localizacao === '' || contato === '') {
     alert('Por favor, preencha todos os campos obrigatórios.');
     return;
@@ -16,6 +17,7 @@ function enviarFormulario() {
     localizacao: localizacao,
     contato: contato
   };
+
 
   fetch('http://localhost:3000/campos', {
     method: 'POST',
@@ -34,15 +36,19 @@ function enviarFormulario() {
   });
 }
 
+
 function exibirMensagem(mensagem) {
   var mensagemElement = document.getElementById('mensagem');
   mensagemElement.textContent = mensagem;
 }
 
+
 var botaoCriar = document.getElementById('botaoEnviar');
 botaoCriar.addEventListener('click', enviarFormulario);
 
+
 let proximoId = 1;
+
 
 function gerarNovoId() {
   const novoId = proximoId;
