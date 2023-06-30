@@ -49,6 +49,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados válidos na criação de conta.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT03 - Cadastrar campo**
+ :--------------: | ------------
+**Procedimento**  | 1) Clique no botão "+" no canto inferior direito.<br>2) O Usuário informa dados como, imagens do campo, título, descrição, Localização, e meio de contato e clica em criar.<br> A aplicação verifica se todos os campos do formulário estão preenchidos e informa ao usuário caso não esteja. <br> A alicação armazena os dados e direciona o usuário para página principal.
+**Requisitos associados** | RF-006
+**Resultado esperado** | Criação de campo no projeto.
+**Dados de entrada** | Inserção de dados no formulário de cadastro de campo.
+**Resultado obtido** | Sucesso.
+
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
@@ -65,6 +73,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT01 - Visualizar anúncio do campo ou quadra*                                         |
 |---|---|
 |Requisito Associado | RF-007 - A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato.|
+|Link do vídeo do teste realizado: | ? | 
+
+|*Caso de Teste*                                 |*CT03 - Cadastrar campo *                                                              |
+|---|---|
+|Requisito Associado | RF-006 - A aplicação deve permitir que o proprietário do campo cadastre seu campo na plataforma.|
 |Link do vídeo do teste realizado: | ? | 
 
 ## Avaliação dos Testes de Software
