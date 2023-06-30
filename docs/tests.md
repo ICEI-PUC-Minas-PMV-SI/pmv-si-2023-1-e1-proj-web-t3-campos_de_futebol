@@ -51,7 +51,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT03 - Cadastrar campo**
  :--------------: | ------------
-**Procedimento**  | 1) Clique no botão "+" no canto inferior direito.<br>2) O Usuário informa dados como, imagens do campo, título, descrição, Localização, e meio de contato e clica em criar.<br> A aplicação verifica se todos os campos do formulário estão preenchidos e informa ao usuário caso não esteja. <br> A alicação armazena os dados e direciona o usuário para página principal.
+**Procedimento**  | 1) Clique no botão "+" no canto inferior direito.<br>2) O Usuário informa dados como, imagens do campo, título, descrição, Localização, e meio de contato e clica em criar.<br> 3)A aplicação verifica se todos os campos do formulário estão preenchidos e informa ao usuário caso não esteja. <br> 4)A alicação armazena os dados e direciona o usuário para página principal.
 **Requisitos associados** | RF-006
 **Resultado esperado** | Criação de campo no projeto.
 **Dados de entrada** | Inserção de dados no formulário de cadastro de campo.
