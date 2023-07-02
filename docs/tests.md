@@ -68,7 +68,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 |*Caso de Teste*                                 |*CT03 - Cadastrar campo *                                                              |
 |---|---|
-|Requisito Associado | RF-006 - A aplicação deve permitir que o proprietário do campo cadastre seu campo na plataforma.|
+|Requisito Associado | RF-006 - A aplicação deve permitir que o proprietário do campo simule o cadastro do seu anúncio.|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1564NZdfLwFstM4CoQaGyvW0ql4JmYhm-/view?usp=sharing | 
 
 ## Avaliação dos Testes de Software
