@@ -73,7 +73,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT01 - Visualizar anúncio do campo ou quadra*                                         |
 |---|---|
 |Requisito Associado | RF-007 - A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato.|
-|Link do vídeo do teste realizado: | ? | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1ODR0884AAnnbSOPHapnZ29VcG4ZasCaw/view?usp=sharing | 
 
 |*Caso de Teste*                                 |*CT03 - Cadastrar campo *                                                              |
 |---|---|
