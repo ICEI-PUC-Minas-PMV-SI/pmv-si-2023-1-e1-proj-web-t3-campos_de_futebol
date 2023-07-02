@@ -73,9 +73,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Avaliação dos Testes de Software
 
-O software está funcionando corretamente, com o usuário podendo visualizar as fotos e acessar os links. No entanto, há algumas limitações que não poderão ser implementadas, como a criação real de um anúncio para a sua quadra ou campo.
-
-
+O software está funcionando corretamente, com o usuário podendo visualizar as fotos e acessar os links. No entanto, há algumas limitações que não poderão ser implementadas, como a criação real de um anúncio para a sua quadra ou campo, pois o servidor é iniciado na máquina que pode ser acessado apenas por meio do endereço local.
 
 # Testes de Usabilidade
 
