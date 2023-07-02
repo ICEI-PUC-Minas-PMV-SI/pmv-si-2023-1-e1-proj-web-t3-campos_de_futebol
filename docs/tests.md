@@ -190,7 +190,7 @@ Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos
 
 Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
 
-Podemos identificar alguns problemas, como quando o usuário filtra um anúncio pelo seu título e diminui a tela, o elemento footer se modifica, e ao contrário (da tela menor para maior) também. Outro problema é uma certa demora no carregamento das imagens e a qualidade das mesmas, além da necessidade de clicar duas vezes para acessar os links do anúncio.
+Podemos identificar alguns problemas, como quando o usuário filtra um anúncio pelo seu título e diminui a tela, o elemento footer se modifica, e ao contrário (da tela menor para maior) também, ocorre também quando a filtragem pega três anúncios. Outro problema é uma certa demora no carregamento das imagens e a qualidade das mesmas, além da necessidade de clicar duas vezes para acessar os links do anúncio.
 
 
 
