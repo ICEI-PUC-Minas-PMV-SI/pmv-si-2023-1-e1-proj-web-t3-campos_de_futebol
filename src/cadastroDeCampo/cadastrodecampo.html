@@ -1,0 +1,55 @@
+<head>
+    <link rel="stylesheet" href="cadastrodecampo.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+    <div class="icone_voltar">
+        <a href="../index.html"><img src="../midias/voltarIcone.png" class="voltar"></a>
+    </div>
+    <div class="text">
+        <h1> Inserir anúncio </h1>
+    </div>
+  <div class="content">  
+    <div class="img" >
+        <div class="conteudo">
+            <form action="upload.php" method="POST" enctype="multipart/form-data" id="formulario">
+                <input type="file" name="campo_imagem" accept="image/*" id="campo_imagem">
+            </form>
+        </div>  
+        <div class="text_img">
+            <h4> Incluir fotos <br> de 0 a 10  </h4>
+         </div>
+        </div>     
+  </div>
+    <div class="textos">
+        <div class="text1">
+            <h3>Título</h3> 
+            
+                        <div class="text-box">
+                            <textarea id="tituloValue" placeholder="Insira um Título"></textarea>
+                        </div>
+            <h3>Descrição</h3>
+                        <div class="text-box">
+                            <textarea id="descricaoValue" placeholder="Descrição"></textarea>
+                        </div> 
+       </div>
+       <div class="text2">              
+            <h3>Localzação</h3>
+                        <div class="text-box">
+                            <textarea  placeholder="Insira a localização do campo"></textarea>
+                        </div>
+            <h3>Contato</h3>
+                        <div class="text-box">
+                            <textarea  placeholder="Meios de contato"></textarea>
+                        </div>
+                        
+        </div>           
+                      
+
+    </div>
+    <div class="button">
+        <button id="botao-enviar" onclick="criar(), enviarFormulario()">Criar</button>
+    </div>
+
+    <script src="../script.js"></script>
+
