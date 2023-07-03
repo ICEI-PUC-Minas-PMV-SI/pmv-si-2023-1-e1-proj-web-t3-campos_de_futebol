@@ -16,23 +16,23 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
 
-**Caso de Teste** | **CT01 - Criar conta parte 1**
+**Caso de Teste** | **CT01 - Criar conta**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email, senha, Estado e Cidade e clica no botão "Continuar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Procedimento**  | 1) Usuário informa um login e senha.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
 **Requisitos associados** | RF-001
-**Resultado esperado** | Prosseguir para a parte 2 do cadastro.
+**Resultado esperado** | Prosseguir para a parte de login.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT02 - Criar conta parte 2**
+**Caso de Teste** | **CT02 - Realizar o login**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa gênero, seu tipo de usuário (cuidador ou comum), data de nascimento e clica em criar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Criação de cadastro
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Procedimento**  | 1) Usuário informa um login e senha.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Requisitos associados** | RF-002
+**Resultado esperado** | Usuário ser autenticado.
+**Dados de entrada** | Inserção de dados válidos no formulário de login.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT01 - Visualizar anúncio do campo ou quadra**
+**Caso de Teste** | **CT03 - Visualizar anúncio do campo ou quadra**
  :--------------: | ------------
 **Procedimento**  | 1) Clique no botão "Detalhes" do anúncio escolhido para acessá-lo.<br>2) Verifique se as imagens estão sendo exibidas corretamente.<br> 3) Verifique se o link da localização está funcionando corretamente.<br> 4) Verifique se o link que leva a um meio de contato está funcionando corretamente.
 **Requisitos associados** | RF-007
@@ -40,7 +40,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados válidos na criação de conta.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT03 - Cadastrar campo**
+**Caso de Teste** | **CT04 - Cadastrar campo**
  :--------------: | ------------
 **Procedimento**  | 1) Clique no botão "+" no canto inferior direito.<br>2) O Usuário informa dados como, imagens do campo, título, descrição, Localização, e meio de contato e clica em criar.<br> 3)A aplicação verifica se todos os campos do formulário estão preenchidos e informa ao usuário caso não esteja. <br> 4)A aplicação orienta ao login ou ao cadastro, e o redireciona.
 **Requisitos associados** | RF-006
@@ -51,22 +51,22 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido.
 
-|*Caso de Teste*                                 |*TC-01 - Criar uma conta*                                         |
+|*Caso de Teste*                                 |*CT01 - Criar uma conta*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Requisito Associado | RF-001 - A aplicação deve ter interface que permita o auto-cadastro de usuários.|
 |Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
 
-|*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
+|*Caso de Teste*                                 |*CT02 - Efetuar Login (usuário autenticado)*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Requisito Associado | RF-002 - A aplicação deve permitir que usuários cadastrados façam login|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
-|*Caso de Teste*                                 |*CT01 - Visualizar anúncio do campo ou quadra*                                         |
+|*Caso de Teste*                                 |*CT03 - Visualizar anúncio do campo ou quadra*                                         |
 |---|---|
 |Requisito Associado | RF-007 - A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato.|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1ODR0884AAnnbSOPHapnZ29VcG4ZasCaw/view?usp=sharing | 
 
-|*Caso de Teste*                                 |*CT03 - Cadastrar campo *                                                              |
+|*Caso de Teste*                                 |*CT04 - Cadastrar campo *                                                              |
 |---|---|
 |Requisito Associado | RF-006 - A aplicação deve permitir que o proprietário do campo simule o cadastro do seu anúncio.|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1564NZdfLwFstM4CoQaGyvW0ql4JmYhm-/view?usp=sharing | 
@@ -120,12 +120,12 @@ Cenário 1:  Você é uma pessoa que deseja fazer o login.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-| 3       | SIM             | 5                    | 39.09 segundos                  |
+| 1       | SIM             | 5                    | 10.11 segundos                  |
+| 2       | SIM             | 5                    | 9.29  segundos                  |
+| 3       | SIM             | 5                    | 16.4 segundos                  |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Média**     | 100%           | 5                | 11.9 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 6.28 segundos |
 
 
     Comentários dos usuários: Achei o site muito bom e intuitivo. 
@@ -138,12 +138,12 @@ Cenário 2: Você é uma pessoa que deseja se cadastrar.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 5                    | 36.21 segundos                          |
+| 1       | SIM             | 5                    | 5.21 segundos                          |
+| 2       | SIM             | 5                    | 6.10 segundos                          |
+| 3       | SIM             | 5                    | 12.43 segundos                          |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+| **Média**     | 100%           | 5                | 7.9 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 5.82 segundos |
 
 
     Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
