@@ -10,8 +10,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito  | Responsável | Artefato Criado |
 |------|-----------------------------------------|----| ----|
-|RF-001| A aplicação deve permitir que o usuário faça login. | Samuel  | areaDeAnuncio.js |
-|RF-002| A aplicação deve permitir que o usuário se cadastre. | Samuel  | areaDeAnuncio.js |
+|RF-001| A aplicação deve permitir que o usuário faça login. | Samuel  | tlogin3.js |
+|RF-002| A aplicação deve permitir que o usuário se cadastre. | Samuel  | tcadastro3.js |
 |RF-003| A aplicação deve permitir que o usuário visualize todas as fotos do anúncio. | Vitor  | areaDeAnuncio.js |
 |RF-004| A aplicação deve passar um alerta para o usuário se cadastrar quando estiver no processo de criação de anúncio. | Eduardo  | script.js |
 |RF-005| A aplicação deve permitir que o usúario filtre os anúncios pelo seu título | Vitor | script.js |
