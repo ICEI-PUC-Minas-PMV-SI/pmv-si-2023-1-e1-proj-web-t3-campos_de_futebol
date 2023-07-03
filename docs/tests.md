@@ -54,17 +54,17 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |*Caso de Teste*                                 |*CT01 - Criar uma conta*                                         |
 |---|---|
 |Requisito Associado | RF-001 - A aplicação deve ter interface que permita o auto-cadastro de usuários.|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: | [https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t](https://drive.google.com/file/d/1Jcpl4a36NSPut0OPLXjaetEfIYk1E-yh/view?usp=sharing)| 
 
 |*Caso de Teste*                                 |*CT02 - Efetuar Login (usuário autenticado)*                                         |
 |---|---|
 |Requisito Associado | RF-002 - A aplicação deve permitir que usuários cadastrados façam login|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | [https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar](https://drive.google.com/file/d/1pcfZNQbG1MccKtlfoyZ619-whPop4kBN/view?usp=sharing) | 
 
 |*Caso de Teste*                                 |*CT03 - Visualizar anúncio do campo ou quadra*                                         |
 |---|---|
 |Requisito Associado | RF-007 - A aplicação deve permitir que o usuário veja as informações do propritário do campo, para entrar em contato.|
-|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1ODR0884AAnnbSOPHapnZ29VcG4ZasCaw/view?usp=sharing | 
+|Link do vídeo do teste realizado: | [https://drive.google.com/file/d/1ODR0884AAnnbSOPHapnZ29VcG4ZasCaw/view?usp=sharing](https://drive.google.com/file/d/1ODR0884AAnnbSOPHapnZ29VcG4ZasCaw/view?usp=sharing) | 
 
 |*Caso de Teste*                                 |*CT04 - Cadastrar campo *                                                              |
 |---|---|
