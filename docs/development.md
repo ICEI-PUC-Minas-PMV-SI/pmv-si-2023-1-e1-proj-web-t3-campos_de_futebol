@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-Link: https://football-maps.vercel.app/
+Link do deploy: https://football-maps.vercel.app/
 
 ## Requisitos Atendidos
 
