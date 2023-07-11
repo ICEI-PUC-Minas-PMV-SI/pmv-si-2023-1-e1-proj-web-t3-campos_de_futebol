@@ -22,11 +22,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Notícia
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id do usuário            | Numero (Inteiro)  | Identificador único do usuário            |  1      |
-| Nome do usuário         | Texto             | Nome do usuário                         | João Marcos      |
 | Email       | Texto             | Email do usuário                      | email1234@gmail.com            |
 | Senha | Texto  | Senha do usuário | senha123            | 
-| Id do anúncio | Numero (Inteiro)  |Identificador único do anúncio    | 2           | 
 | Título do anúncio | Texto  | Título do anúncio | Campo em São Paulo            | 
 | Descrição do campo | Texto  | Descrição do campo | O campo tem 40 metros de comprimento e 20 de largura.    | 
 |Localização do campo | Url  | Localização do campo |    https://maps.google.com/?cid=9907689870538344704&entry=gps        | 
