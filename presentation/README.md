@@ -13,7 +13,15 @@ Football Maps
 
 ## Conjunto de Slides (Estrutura)
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos. Os arquivos devem ser postados na pasta [presentation](../presentation)
+<img src = "/presentation/slide1.jpg" alt = "slide1">
+<img src = "/presentation/slide2.jpg" alt = "slide2">
+<img src = "/presentation/slide3.jpg" alt = "slide3">
+<img src = "/presentation/slide4.jpg" alt = "slide4">
+<img src = "/presentation/slide5.jpg" alt = "slide5">
+<img src = "/presentation/slide6.jpg" alt = "slide6">
+<img src = "/presentation/slide7.jpg" alt = "slide7">
+<img src = "/presentation/slide8.jpg" alt = "slide8">
+<img src = "/presentation/slide9.jpg" alt = "slide9">
  
 
 ## Vídeo de demonstração
