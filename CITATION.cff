@@ -2,16 +2,16 @@ cff-version: 1.0.1
 message: Please cite this software using the informations below.
 title: Football Maps
 authors:
-  - family-names: Lacerda
-    given-names: Samuel
   - family-names: Maciejewsky
     given-names: Artur
-  - family-names: Linas
-    given-names: Victor
   - family-names: Medeiros
     given-names: Eduardo
   - family-names: Joshua
     given-names: Emanuel
+  - family-names: Lacerda
+    given-names: Samuel
+  - family-names: Linas
+    given-names: Victor
 keywords:
   - Football
   - Maps
